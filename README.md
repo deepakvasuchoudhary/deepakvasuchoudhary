@@ -61,10 +61,12 @@ My career spans **FinTech** (BlackRock, Paytm) and **Enterprise Software Deliver
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakvasuchoudhary&show_icons=true&theme=radial" alt="Deepak's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakvasuchoudhary&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
+## 📊 GitHub Overview
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=deepakvasuchoudhary&color=blue&style=flat-square)
+![Java](https://img.shields.io/badge/Primary_Language-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Playwright](https://img.shields.io/badge/Automation-Playwright_|_Selenium-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GenAI](https://img.shields.io/badge/AI_Workflows-MCP_|_LLMs-FF6F61?style=flat-square)
 
 ---
 
