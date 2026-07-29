@@ -59,8 +59,6 @@ My career spans **FinTech** (BlackRock, Paytm) and **Enterprise Software Deliver
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Overview
 
 ![Java](https://img.shields.io/badge/Primary_Language-Java-007396?style=flat-square&logo=java&logoColor=white)
