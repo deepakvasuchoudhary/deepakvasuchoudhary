@@ -63,7 +63,6 @@ My career spans **FinTech** (BlackRock, Paytm) and **Enterprise Software Deliver
 
 ## 📊 GitHub Overview
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=deepakvasuchoudhary&color=blue&style=flat-square)
 ![Java](https://img.shields.io/badge/Primary_Language-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Automation-Playwright_|_Selenium-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![GenAI](https://img.shields.io/badge/AI_Workflows-MCP_|_LLMs-FF6F61?style=flat-square)
